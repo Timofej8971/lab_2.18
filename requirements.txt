@@ -1,0 +1,6 @@
+CairoSVG==2.5.2
+certifi==2021.10.8
+click==8.0.3
+colorama==0.4.4
+python-dotenv==0.19.2
+wincertstore==0.2
